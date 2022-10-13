@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>M &#8211; My wordpress</title>
+	<atom:link href="http://localhost/word/wordpress/size/m/feed/" rel="self" type="application/rss+xml" />
+	<link>https://caothithuyduong.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 13 Oct 2022 09:26:06 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Lightweight Iron Hat</title>
+		<link>https://caothithuyduong.github.io/mywordpress/product/lightweight-iron-hat/</link>
+					<comments>https://caothithuyduong.github.io/mywordpress/product/lightweight-iron-hat/#respond</comments>
+		
+		<dc:creator><![CDATA[thuy duong]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 09:24:05 +0000</pubDate>
+				<guid isPermaLink="false">https://caothithuyduong.github.io/mywordpress/?post_type=product&#038;p=257</guid>
+
+					<description><![CDATA[Minima et blanditiis vel accusantium nostrum molestias quis. Iure porro nostrum vero quo sed. Est id dolorem delectus doloremque tenetur.
+
+Consequatur quos totam sed commodi aut. Dolores ea molestiae voluptatem at consequatur minus. Eos quidem qui corporis itaque. Et voluptas molestias aut nulla tenetur neque perferendis.
+
+Eligendi iure mollitia aut et quae autem nam. Et aut qui consequatur quae aut consectetur.
+
+Officia quod voluptas voluptatem eos enim. Autem vel dolorum et et id suscipit voluptatem. A est consequuntur rerum laborum magni qui.]]></description>
+										<content:encoded><![CDATA[<p>Eum velit dolores earum pariatur. Ea et ad distinctio veniam omnis sint et sunt. Sit ut corrupti perspiciatis accusantium qui dolores.</p>
+<p>Consequatur quos totam sed commodi aut. Dolores ea molestiae voluptatem at consequatur minus. Eos quidem qui corporis itaque. Et voluptas molestias aut nulla tenetur neque perferendis.</p>
+<p>Eligendi iure mollitia aut et quae autem nam. Et aut qui consequatur quae aut consectetur.</p>
+<p>Officia quod voluptas voluptatem eos enim. Autem vel dolorum et et id suscipit voluptatem. A est consequuntur rerum laborum magni qui.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://caothithuyduong.github.io/mywordpress/product/lightweight-iron-hat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
